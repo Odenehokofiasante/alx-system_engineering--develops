@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^[[:alpha:]]' /etc/ssh/sshd_config_
+grep '^[[:alpha:]] <F4>' /etc/ssh/sshd_config
